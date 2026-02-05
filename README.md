@@ -10,6 +10,11 @@
 
 # README — Crown-Standard SOVERAIN QR Deployment
 
+---
+
+## 📜 CODEX VOLUME ENTRY  
+### SOVERAIN QR — VERIFIED ALLODS CREST
+
 ## ⚜️ Embedded QR Emblem
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
 
