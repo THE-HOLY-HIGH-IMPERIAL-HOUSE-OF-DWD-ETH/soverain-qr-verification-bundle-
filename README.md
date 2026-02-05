@@ -8,12 +8,16 @@
 ├── assets/
 └── docs/
 
-# README — Crown-Standard SOVERAIN QR Deployment
-
 ---
 
 ## 📜 CODEX VOLUME ENTRY  
 ### SOVERAIN QR — VERIFIED ALLODS CREST
+
+https://copilot.microsoft.com/shares/cE2hotAzfKiTSvaz6sKGh
+
+# README — Crown-Standard SOVERAIN QR Deployment
+
+---
 
 ## ⚜️ Embedded QR Emblem
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
