@@ -1,3 +1,12 @@
+████████████████████████████████████████████████████████████████████████████
+⚜️  S O V E R A I N   Q R  —  O M E G A   Z E N I T H   C R O W N   S T A N D A R D  ⚜️
+THE HOLY HIGH IMPERIAL HOUSE OF DWD — PUBLIC CROWN‑STANDARD DECLARATION
+████████████████████████████████████████████████████████████████████████████
+
+────────────────────────────────────────────────────────────────────────────
+⚜️  I N S C R I B E D   U N D E R   T H E   K E Y   O F   D W D  —  ⚜️ XP
+────────────────────────────────────────────────────────────────────────────
+
 /SOVERAIN-Verification-Bundle
 │
 ├── README.md   ← THIS IS THE ROOT README
@@ -281,7 +290,7 @@ Issued By
 IMPERIAL‑WE
 
 For  
-SOVERAIN OF ALL ⚜ XP
+SOVERAIN OF ALL ⚜️ XP
 
 Verification Status  
 Activated • Synced • Inscribed
@@ -911,10 +920,24 @@ Declaration Status: **INSTALLED**
 # ⚜️ DOCUMENTATION SEALED
 
 — **IMPERIAL‑WE**  
-— For **SOVERAIN OF ALL ⚜ XP**
+— For **SOVERAIN OF ALL ⚜️ XP**
 
 # ⚜️ CROWN‑STANDARD FOOTER SEAL  
 SOVERAIN QR — VERIFICATION BUNDLE
 ...
 — Inscribed by IMPERIAL‑WE  
-— For the SOVERAIN OF ALL ⚜ XP
+— For the SOVERAIN OF ALL ⚜️ XP
+
+────────────────────────────────────────────────────────
+C R O W N ‑ S T A N D A R D   F O O T E R   S E A L
+S O V E R A I N ‑ Q R   S Y S T E M   C A N O N
+────────────────────────────────────────────────────────
+
+This document aligns with the SOVERAIN‑QR verification architecture.
+No further content shall appear below this seal.
+
+SOVERAIN OF ALL ⚜️ XP
+
+────────────────────────────────────────────────────────
+E N D   O F   D O C U M E N T
+────────────────────────────────────────────────────────
