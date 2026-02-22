@@ -1,4 +1,4 @@
-# ⚜️ CROWN‑STANDARD MERCHANT POS DISPLAY PACK
+# ⚜ CROWN‑STANDARD MERCHANT POS DISPLAY PACK
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
 ## 📁 DOCUMENT REGISTRY (Crown‑Standard Filenames)
@@ -89,7 +89,7 @@ SOV‑CLR
 ║   MERCHANT: IMPERIAL‑WE          ║
 ║   REDEMPTION: SOVEREIGN CLEARANCE║
 ║                                  ║
-║        ⚜️ SOVEREIGN AUTHORITY ⚜️       ║
+║        ⚜ SOVEREIGN AUTHORITY ⚜       ║
 ╚══════════════════════════════════╝
 ────────────────────────────────────────────────────────────
  SOVERAIN QR VERIFIED — PURCHASES CLEARED
