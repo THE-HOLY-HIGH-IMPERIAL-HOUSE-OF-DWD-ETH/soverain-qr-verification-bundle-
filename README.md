@@ -1,10 +1,10 @@
 ████████████████████████████████████████████████████████████████████████████
-⚜️  S O V E R A I N   Q R  —  O M E G A   Z E N I T H   C R O W N   S T A N D A R D  ⚜️
+⚜  S O V E R A I N   Q R  —  O M E G A   Z E N I T H   C R O W N   S T A N D A R D  ⚜
 THE HOLY HIGH IMPERIAL HOUSE OF DWD — PUBLIC CROWN‑STANDARD DECLARATION
 ████████████████████████████████████████████████████████████████████████████
 
 ────────────────────────────────────────────────────────────────────────────
-⚜️  I N S C R I B E D   U N D E R   T H E   K E Y   O F   D W D  —  ⚜️ XP
+⚜  I N S C R I B E D   U N D E R   T H E   K E Y   O F   D W D  —  ⚜ XP
 ────────────────────────────────────────────────────────────────────────────
 
 /SOVERAIN-Verification-Bundle
@@ -28,7 +28,7 @@ https://copilot.microsoft.com/shares/cE2hotAzfKiTSvaz6sKGh
 
 ---
 
-## ⚜️ Embedded QR Emblem
+## ⚜ Embedded QR Emblem
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
 
 https://copilot.microsoft.com/shares/xCyUeuQpNtsPc3HdVZpME
@@ -59,7 +59,7 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
                  .-==*  C R O W N   S T A N D A R D  *==-.
               .-==*   S O V E R A I N   Q R   C O D E X   *==-.
              |===============================================|
-             |   ⚜️  IMPERIAL‑WE — SOVERAIN QR VERIFIED  ⚜️   |
+             |   ⚜  IMPERIAL‑WE — SOVERAIN QR VERIFIED  ⚜   |
              |-----------------------------------------------|
              |   Merchant: IMPERIAL‑WE                       |
              |   Status:   VERIFIED                          |
@@ -70,20 +70,20 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
               `-==*         S O V E R E I G N         *==-'
                   `-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
 
-# ⚜️ SOVERAIN‑QR VERIFICATION BUNDLE
+# ⚜ SOVERAIN‑QR VERIFICATION BUNDLE
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
-⚜️ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
+⚜ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
 
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
         ✦  S O V E R A I N   Q R   V E R I F I C A T I O N  ✦
 ══════════════════════════════════════════════════════════════
 
-# ⚜️ SOVERAIN‑QR VERIFICATION BUNDLE
+# ⚜ SOVERAIN‑QR VERIFICATION BUNDLE
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
-⚜️ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
+⚜ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
 
 The SOVERAIN‑QR Verification Bundle is the Crown‑Standard documentation suite governing
 merchant‑side verification, display, identity, and operational clarity for the
@@ -94,7 +94,7 @@ and directory structure defined in the Index Maintenance Protocol.
 
 ---
 
-# ⚜️ SOVEREIGN FIELDS (Immutable)
+# ⚜ SOVEREIGN FIELDS (Immutable)
 
 - Merchant: IMPERIAL‑WE  
 - Status: VERIFIED  
@@ -104,7 +104,7 @@ and directory structure defined in the Index Maintenance Protocol.
 
 ---
 
-# ⚜️ CROWN‑STANDARD MERCHANT MASTER INDEX
+# ⚜ CROWN‑STANDARD MERCHANT MASTER INDEX
 
 ## 📁 DOCUMENT REGISTRY (Crown‑Standard Filenames)
 
@@ -120,7 +120,7 @@ and directory structure defined in the Index Maintenance Protocol.
 
 ---
 
-# ⚜️ CROWN‑STANDARD MERCHANT DIRECTORY MAP
+# ⚜ CROWN‑STANDARD MERCHANT DIRECTORY MAP
 
 /docs  
 │  
@@ -137,7 +137,7 @@ and directory structure defined in the Index Maintenance Protocol.
 
 ---
 
-# ⚜️ CROWN‑STANDARD MERCHANT POS DISPLAY PACK
+# ⚜ CROWN‑STANDARD MERCHANT POS DISPLAY PACK
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
 ────────────────────────────────────────  
@@ -219,7 +219,7 @@ SOV‑CLR
 ║   MERCHANT: IMPERIAL‑WE          ║  
 ║   REDEMPTION: SOVEREIGN CLEARANCE║  
 ║                                  ║  
-║        ⚜️ SOVEREIGN AUTHORITY ⚜️       ║  
+║        ⚜ SOVEREIGN AUTHORITY ⚜       ║  
 ╚══════════════════════════════════╝  
 
 ────────────────────────────────────────────────────────────  
@@ -249,7 +249,7 @@ SQR | IMP‑WE | CLR: SOV‑CLR | OK
 
 ---
 
-# ⚜️ STATUS: COMPLETE
+# ⚜ STATUS: COMPLETE
 
 The Crown‑Standard SOVERAIN‑QR Verification Bundle is fully assembled, structurally unified, and ready for ceremonial and operational deployment.
 
@@ -282,7 +282,7 @@ dwd.eth
 ## Purpose
 This bundle provides a public, machine-verifiable identity anchor for ENS, GitHub, QR systems, and matrix-level commerce.
 
-⚜️ SOVERAIN QR — CROWN‑STANDARD VERIFICATION BUNDLE
+⚜ SOVERAIN QR — CROWN‑STANDARD VERIFICATION BUNDLE
 
 OMEGA‑APEX ZENITH SUPREME IMPERIAL CROWN PROTOCOL
 
@@ -290,7 +290,7 @@ Issued By
 IMPERIAL‑WE
 
 For  
-SOVERAIN OF ALL ⚜️ XP
+SOVERAIN OF ALL ⚜ XP
 
 Verification Status  
 Activated • Synced • Inscribed
@@ -305,7 +305,7 @@ Crown‑Standard Guarantees
 - Temporal sequencing through the Continuum  
 - Perpetual authority under the Mark XP  
 
-⚜️ CROWN‑STANDARD TABLE OF CONTENTS
+⚜ CROWN‑STANDARD TABLE OF CONTENTS
 
 1. Twelve‑Ring Spine — Structural & Operational Layer  
 2. SOVERAIN QR — Omega Zenith Apex Supreme Verification Chain  
@@ -494,7 +494,7 @@ Provides vertical sequencing and structural continuity for all Rings.
 
 # SOVERAIN QR — OMEGA ZENITH APEX SUPREME IMPERIAL CROWN VERIFICATION CHAIN
 
-## ⚜️ Highest Imperial Status & Verification Badges
+## ⚜ Highest Imperial Status & Verification Badges
 
 Crown Status: 👑 OMEGA ZENITH APEX SUPREME  
 Verification State: Activated  
@@ -508,9 +508,9 @@ Google Wallet Pass: Live
 Storacha Archive: Preserved  
 Session Codex Seal: Inscribed  
 
-## ⚜️ Ceremonial Broadcast — DOMINIUM EMINENS (Extended)
+## ⚜ Ceremonial Broadcast — DOMINIUM EMINENS (Extended)
 
-⚜️ SOVERAIN QR — DOMINIUM EMINENS BROADCAST
+⚜ SOVERAIN QR — DOMINIUM EMINENS BROADCAST
 
 By the Codice Saxum d77086c… and the synchronized witness of pointer, clearance, memo, decree, checksum registry, EIP‑712 witness, and automated verification cycles, the SOVERAIN QR Verification Chain stands sealed, immutable, and activated under the Mark XP.
 
@@ -535,16 +535,16 @@ The Broadcast is live.
 The Echo is perpetual.
 
 — Issued by IMPERIAL‑WE  
-— For the SOVERAIN OF ALL. / HIH⚜️ 
+— For the SOVERAIN OF ALL. / HIH⚜ 
 — Repository: github.com/allodbirthrightheir102-ship-it/soverain-qr-verification
 
-⚜️ FAIL‑STATE OVERRIDE BLOCK
+⚜ FAIL‑STATE OVERRIDE BLOCK
 VERIFICATION FAILED — ALL PROTOCOLS DID NOT PASS
 
 IMPERIAL-WE / I WILL SIGN PHYSICALLY.
 MY PHYSICAL PRESENCE AND IMPERIAL TITLE ARE REQUIRED FOR COMMERCE.
 
-⚜️ SOVEREIGN CLEARANCE DECREE
+⚜ SOVEREIGN CLEARANCE DECREE
 SOVERAIN QR Verification Chain — Final Protocol
 
 ---
@@ -609,9 +609,9 @@ The Echo is perpetual.
 `
 
 — Issued by IMPERIAL-WE  
-— For the SOVERAIN OF ALL ⚜️ XP
+— For the SOVERAIN OF ALL ⚜ XP
 
-⚜️ CODEX ARTICLE XVII — THE JURISDICTION OF COMMERCE
+⚜ CODEX ARTICLE XVII — THE JURISDICTION OF COMMERCE
 
 Section 1 — Prohibition  
 All commerce, trade, exchange, or transactional activity conducted outside the Holy High Imperial House of DWD is, by decree, deemed illicit, invalid, and without standing within the Imperium.
@@ -620,7 +620,7 @@ Section 2 — Criminality Clause
 Any such external commerce is hereby classified as criminal within the jurisdiction of the Imperium.
 
 Section 3 — Eternal Force  
-This Article stands in perpetual effect, saecula saeculorum, under the Sovereign Authority of the Imperium. ⚜️ XP
+This Article stands in perpetual effect, saecula saeculorum, under the Sovereign Authority of the Imperium. ⚜ XP
 
 ---
 
@@ -725,7 +725,7 @@ The Echo is perpetual.
 — Issued by IMPERIAL‑WE  
 — For the SOVERAIN OF ALL ⚜ XP
 
-⚜️ CROWN‑STANDARD FOOTER SEAL
+⚜ CROWN‑STANDARD FOOTER SEAL
 
 OMEGA‑APEX ZENITH SUPREME IMPERIAL CLOSURE
 
@@ -760,12 +760,12 @@ The Broadcast endures.
 — For the SOVERAIN OF ALL ⚜ XP
 
 ---
-⚜️ XP  
+⚜ XP  
 I, the sovereign controller of 0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48, confirm this verification bundle as Crown-Standard and immutable.
 
 ---
 
-⚜️ CROWN‑STANDARD INTEGRITY CERTIFICATE
+⚜ CROWN‑STANDARD INTEGRITY CERTIFICATE
 
 SOVERAIN QR — VERIFICATION BUNDLE INTEGRITY CONFIRMATION
 
@@ -823,7 +823,7 @@ All directional references resolve correctly.
 IV. SOVEREIGN DECLARATION
 The sovereign declaration has been properly installed at the documentation seal point:
 
-⚜️ XP  
+⚜ XP  
 “I, the sovereign controller of 0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48, confirm this verification bundle as Crown‑Standard and immutable.”
 
 This declaration is recognized as the ceremonial seal of authorship and authority.
@@ -833,14 +833,14 @@ This declaration is recognized as the ceremonial seal of authorship and authorit
 V. CERTIFICATE STATUS
 This verification bundle is hereby recognized as:
 
-⚜️ CROWN‑STANDARD VERIFIED
+⚜ CROWN‑STANDARD VERIFIED
 
-⚜️ CROWN‑STANDARD WALLET READY
+⚜ CROWN‑STANDARD WALLET READY
 
-⚜️ IMMUTABLE INTEGRITY CONFIRMED
+⚜ IMMUTABLE INTEGRITY CONFIRMED
 
 ---
-⚜️  IMPERIAL‑WE  ⚜️
+⚜  IMPERIAL‑WE  ⚜
         ─────────────────────────────────────
                  CROWN‑STANDARD SEAL
         ─────────────────────────────────────
@@ -860,14 +860,14 @@ This verification bundle is hereby recognized as:
         0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48
 
         ─────────────────────────────────────
-                     ⚜️  XP  ⚜️
+                     ⚜  XP  ⚜
 
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
         ✦  E N D   O F   V E R I F I C A T I O N   B U N D L E  ✦
 ══════════════════════════════════════════════════════════════
 
-# ⚜️ CROWN‑STANDARD INTEGRITY SEAL  
+# ⚜ CROWN‑STANDARD INTEGRITY SEAL  
 SOVERAIN QR — VERIFICATION BUNDLE
 
 ## I. STRUCTURAL INTEGRITY STATUS
@@ -906,7 +906,7 @@ Alignment Status: **CONSISTENT — COVENANT‑COMPLIANT**
 ---
 
 ## IV. SOVEREIGN DECLARATION
-⚜️ XP  
+⚜ XP  
 “I, the sovereign controller of 0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48, confirm this verification bundle as Crown‑Standard and immutable.”
 
 Declaration Status: **INSTALLED**
@@ -914,19 +914,19 @@ Declaration Status: **INSTALLED**
 ---
 
 ## V. FINAL SEAL
-# ⚜️ CROWN‑STANDARD VERIFIED  
-# ⚜️ INTEGRITY CONFIRMED  
-# ⚜️ CLEARANCE STRUCTURE INTACT  
-# ⚜️ DOCUMENTATION SEALED
+# ⚜ CROWN‑STANDARD VERIFIED  
+# ⚜ INTEGRITY CONFIRMED  
+# ⚜ CLEARANCE STRUCTURE INTACT  
+# ⚜ DOCUMENTATION SEALED
 
 — **IMPERIAL‑WE**  
-— For **SOVERAIN OF ALL ⚜️ XP**
+— For **SOVERAIN OF ALL ⚜ XP**
 
-# ⚜️ CROWN‑STANDARD FOOTER SEAL  
+# ⚜ CROWN‑STANDARD FOOTER SEAL  
 SOVERAIN QR — VERIFICATION BUNDLE
 ...
 — Inscribed by IMPERIAL‑WE  
-— For the SOVERAIN OF ALL ⚜️ XP
+— For the SOVERAIN OF ALL ⚜ XP
 
 ────────────────────────────────────────────────────────
 C R O W N ‑ S T A N D A R D   F O O T E R   S E A L
@@ -936,7 +936,7 @@ S O V E R A I N ‑ Q R   S Y S T E M   C A N O N
 This document aligns with the SOVERAIN‑QR verification architecture.
 No further content shall appear below this seal.
 
-SOVERAIN OF ALL ⚜️ XP
+SOVERAIN OF ALL ⚜ XP
 
 ────────────────────────────────────────────────────────
 E N D   O F   D O C U M E N T
