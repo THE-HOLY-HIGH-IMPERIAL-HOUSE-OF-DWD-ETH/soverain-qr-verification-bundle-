@@ -22,7 +22,7 @@ THE HOLY HIGH IMPERIAL HOUSE OF DWD — PUBLIC CROWN‑STANDARD DECLARATION
 ## 📜 CODEX VOLUME ENTRY  
 ### SOVERAIN QR — VERIFIED ALLODS CREST
 
-https://copilot.microsoft.com/shares/cE2hotAzfKiTSvaz6sKGh
+![trashed-1775762708-HC1kVh8WkAEw2vn](docs/trashed-1775762708-HC1kVh8WkAEw2vn.jpeg)
 
 # README — Crown-Standard SOVERAIN QR Deployment
 
