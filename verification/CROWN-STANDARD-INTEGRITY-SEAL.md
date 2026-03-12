@@ -36,4 +36,4 @@ This document constitutes the complete and final Crown‑Standard Integrity Seal
 ---
 
 **SHA‑256 (checksum‑lock):**  
-`a3f4c5c1c8e7f0b2d1c4b0a9e6f7d3c2b1a0f9e8d7c6b5a4e3d2c1b0f0e9d8c7`
+`f2a1f0c8d3b4e7a9c1d0f6b2a4c8e3d7b9f1a0c4e6d8b2f3c7a9e1d0b4f6c2a8`
