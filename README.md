@@ -31,7 +31,7 @@ https://copilot.microsoft.com/shares/cE2hotAzfKiTSvaz6sKGh
 ## ⚜ Embedded QR Emblem
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
 
-https://copilot.microsoft.com/shares/xCyUeuQpNtsPc3HdVZpME
+docs/copilot_image_1773330882915.jpeg
 
 ---
 
