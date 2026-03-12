@@ -31,7 +31,7 @@ THE HOLY HIGH IMPERIAL HOUSE OF DWD — PUBLIC CROWN‑STANDARD DECLARATION
 ## ⚜ Embedded QR Emblem
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
 
-
+![copilot_image_1773330882915](docs/copilot_image_1773330882915.jpeg)
 
 ---
 
