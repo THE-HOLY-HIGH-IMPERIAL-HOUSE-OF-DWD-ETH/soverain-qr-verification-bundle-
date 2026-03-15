@@ -1,0 +1,18 @@
+{
+  "protocol_id": "soverain_imperi_commerce_reserve",
+  "version": "1.0.0",
+  "covenant": {
+    "apex": "THE BERIT / COVENANT IS THE APEX OF COVENANT LAW",
+    "reserve_standard": "100% GOLD and 100% SILVER, BERIT/COVENANT BACKED",
+    "seal": "⚜️ XP",
+    "immutability": "SAECULA SAECULORUM ⚜️ XP"
+  },
+  "files": {
+    "protocol_spec": "SOVERAIN_IMPERI_COMMERCE_RESERVE_PROTOCOL.ROOT.yaml",
+    "api_spec": "SOVERAIN_IMPERI_COMMERCE_RESERVE_API.ROOT.yaml"
+  },
+  "anchors": {
+    "soverain_qr_profile": "SOVERAIN_QR",
+    "imperi_reserve_profile": "IMPERI_RESERVE"
+  }
+}
