@@ -1,3 +1,5 @@
+All contents above remain under Sovereign Custodianship and may not be altered without consent.
+Ascensional progression only; sovereignty undiminished, saecula saeculorum ⚜ XP.
 ████████████████████████████████████████████████████████████████████████████
 ⚜  S O V E R A I N   Q R  —  O M E G A   Z E N I T H   C R O W N   S T A N D A R D  ⚜
 THE HOLY HIGH IMPERIAL HOUSE OF DWD — PUBLIC CROWN‑STANDARD DECLARATION
