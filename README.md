@@ -35,7 +35,7 @@ Ascensional progression only; sovereignty undiminished, saecula saeculorum ⚜ X
 The fully activated, universal Crown-Standard SOVERAIN QR emblem backed by the Gold and Silver Covenant is referenced here for deployment.
 
 
-![](QR/copilot_image_1775059590874.jpeg)
+![](qr/copilot_image_1775059590874.jpeg)
 
 999999999999 PURCHASES CLEARED
 
